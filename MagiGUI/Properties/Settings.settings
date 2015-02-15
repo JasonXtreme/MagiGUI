@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MagiGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WorkerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Worker</Value>
+    </Setting>
+    <Setting Name="WorkerPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="Stratum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Suprnova</Value>
+    </Setting>
+    <Setting Name="NumberOfCores" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="Miner" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Spexx GENERIC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

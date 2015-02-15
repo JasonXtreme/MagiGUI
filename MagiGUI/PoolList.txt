@@ -1,0 +1,3 @@
+﻿MagiPool stratum+tcp://stratum.magipool.info:3334
+Suprnova stratum+tcp://xmg.suprnova.cc:7128
+Nonce-Pool stratum+tcp://mine2.magi.nonce-pool.com:4090
